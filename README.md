@@ -1,4 +1,9 @@
 <div align="center">
+<div align="center">
+<svg width="500" height="200" viewBox="0 0 680 460">
+<!-- Pixel art yahan paste hogi -->
+</svg>
+</div>
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohd%20Yusuf&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20Enthusiast%20%7C%20Open%20to%20Internships&descAlignY=55&descSize=18)
 
