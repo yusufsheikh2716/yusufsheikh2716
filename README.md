@@ -1,3 +1,4 @@
+<img width="220" height="150" alt="yusuf_epic_pixel_art" src="https://github.com/user-attachments/assets/c75aa365-f76d-4a97-9efe-9628e5940636" />
 <div align="center">
 <div align="center">
 <svg width="500" height="200" viewBox="0 0 680 460">
