@@ -2,7 +2,7 @@
 <div align="center">
 <div align="center">
 <svg width="500" height="200" viewBox="0 0 680 460">
-<!-- Pixel art yahan paste hogi -->
+
 </svg>
 </div>
 
