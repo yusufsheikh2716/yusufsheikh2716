@@ -103,7 +103,8 @@ print("Let's build something amazing together! 🔥")
 | 🛍️ Project | 📝 Description | 🛠️ Tech | 🔗 Link |
 |---|---|---|---|
 | **BlinkMart** | Grocery Delivery Landing Page | HTML, CSS, JS | [Live 🌐](https://legendary-kitten-5052a4.netlify.app) |
-| **Java Chat App** | Socket Programming Chat | Java | In Progress 🔄 |
+| **Java Chat App** | Socket Programming Chat | Java | [Live 🌐]
+https://yusufchat.netlify.app
 | **Weather App** | Real-time Weather App | Java, Swing, API | In Progress 🔄 |
 
 </div>
