@@ -2,7 +2,112 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohd%20Yusuf&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20Enthusiast%20%7C%20Open%20to%20Internships&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Mohd+Yusuf!;🎓+B.Tech+IT+Student+%40+BBD+NIIT+Lucknow;🤖+AI+%26+Data+Science+Enthusiast;🐍+Python+Developer;🚀+Open+to+Internship+Opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Mohd+Yusuf!;🎓+B.Tech+IT+Student+%40+BBD+NIIT+Lucknow;🤖+AI�
+
+�
+�
+�
+￼
+�
+
+🙋‍♂️ About Me
+class MohdYusuf:
+    def __init__(self):
+        self.name       = "Mohd Yusuf"
+        self.location   = "Lucknow, Uttar Pradesh 🇮🇳"
+        self.college    = "BBD NIIT, Lucknow (AKTU)"
+        self.degree     = "B.Tech - Information Technology"
+        self.year       = "2nd Year | 4th Semester"
+        self.graduation = 2028
+        
+    def passion(self):
+        return ["Artificial Intelligence 🤖",
+                "Data Science 📊",
+                "Python Development 🐍",
+                "Web Development 🌐",
+                "Open Source 💻"]
+    
+    def currently(self):
+        return {
+            "learning"  : ["Java", "Machine Learning", "DSA"],
+            "building"  : ["Java Chat App", "Weather App"],
+            "open_to"   : "Internship Opportunities 🚀"
+        }
+
+me = MohdYusuf()
+print("Let's build something amazing together! 🔥")
+🛠️ Tech Stack & Skills
+�
+
+Languages
+� � � � �
+AI & Data Science
+� � � �
+Tools & Platforms
+� � � �
+�
+
+🏆 Certifications
+�
+
+🏅 Certificate
+🏢 Issuer
+📅 Year
+🔗 Verify
+Artificial Intelligence Mastery
+Beep Learning
+2026
+Verify ✅
+Introduction to Generative AI
+Google Cloud
+2026
+Coming Soon 🔄
+�
+
+📊 GitHub Stats
+�
+
+�
+￼
+�
+￼
+�
+￼
+�
+
+🚀 Projects
+�
+
+🛍️ Project
+📝 Description
+🛠️ Tech
+🔗 Link
+BlinkMart
+Grocery Delivery Landing Page
+HTML, CSS, JS
+Live 🌐
+Java Chat App
+Socket Programming Chat
+Java
+In Progress 🔄
+Weather App
+Real-time Weather App
+Java, Swing, API
+In Progress 🔄
+�
+
+📫 Connect With Me
+�
+
+� � �
+�
+
+�
+
+💭 Quote I Live By
+"The best way to predict the future is to create it."
+�
+�+%26+Data+Science+Enthusiast;🐍+Python+Developer;🚀+Open+to+Internship+Opportunities!)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=yusufsheikh2716&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 
