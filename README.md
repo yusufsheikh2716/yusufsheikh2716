@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohd%20Yusuf&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20Enthusiast%20%7C%20Open%20to%20Internships&descAlignY=55&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Mohd+Yusuf!;🎓+B.Tech+IT+Student+%40+BBD+NIIT+Lucknow;🤖+AI+%26+Data+Science+Enthusiast;🐍+Python+Developer;🚀+Open+to+Internship+Opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Mohd+Yusuf!;🎓+B.Tech+IT+Student+%40+BBD+NIIT+Lucknow;🤖+AI+%26+Data+Science+Enthusiast;☕+Java+Developer;🚀+Open+to+Internship+Opportunities!)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=yusufsheikh2716&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 
@@ -25,14 +25,15 @@ class MohdYusuf:
     def passion(self):
         return ["Artificial Intelligence 🤖",
                 "Data Science 📊",
-                "Python Development 🐍",
+                "Java Development ☕",
                 "Web Development 🌐",
                 "Open Source 💻"]
     
     def currently(self):
         return {
             "learning"  : ["Java", "Machine Learning", "DSA"],
-            "building"  : ["Java Chat App", "Weather App"],
+            "building"  : ["YusufChat", "WeatherApp"],
+            "deployed"  : ["BlinkMart", "YusufChat"],
             "open_to"   : "Internship Opportunities 🚀"
         }
 
@@ -63,7 +64,23 @@ print("Let's build something amazing together! 🔥")
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+<div align="center">
+
+| 🛍️ Project | 📝 Description | 🛠️ Tech | 🔗 Link |
+|---|---|---|---|
+| **YusufChat** | Real-time Multi-User Chat App with WebSocket & Firebase | Java, Firebase, HTML/CSS/JS | [Live 🌐](https://yusufchat-web.onrender.com) |
+| **WeatherApp** | Live Weather Desktop App with OpenWeatherMap API | Java, Swing, REST API | [GitHub 💻](https://github.com/yusufsheikh2716/WeatherApp) |
+| **BlinkMart** | Grocery Delivery Landing Page | HTML, CSS, JS | [Live 🌐](https://legendary-kitten-5052a4.netlify.app) |
 
 </div>
 
@@ -91,20 +108,6 @@ print("Let's build something amazing together! 🔥")
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufsheikh2716&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsheikh2716&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff" width="48%" />
-
-</div>
-
----
-
-## 🚀 Projects
-
-<div align="center">
-
-| 🛍️ Project | 📝 Description | 🛠️ Tech | 🔗 Link |
-|---|---|---|---|
-| **BlinkMart** | Grocery Delivery Landing Page | HTML, CSS, JS | [Live 🌐](https://legendary-kitten-5052a4.netlify.app) |
-| **YusufChat** | Real-time Multi-User Chat App | Java, Firebase, HTML/CSS/JS | [Live 🌐](https://yusufchat-web.onrender.com) |
-| **Weather App** | Real-time Weather App | Java, Swing, API | In Progress 🔄 |
 
 </div>
 
