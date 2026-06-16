@@ -79,7 +79,7 @@ print("Let's build something amazing together! 🔥")
 | 🛍️ Project | 📝 Description | 🛠️ Tech | 🔗 Link |
 |---|---|---|---|
 | **YusufChat** | Real-time Multi-User Chat App with WebSocket & Firebase | Java, Firebase, HTML/CSS/JS | [Live 🌐](https://yusufchat-web.onrender.com) |
-| **WeatherApp** | Live Weather Desktop App with OpenWeatherMap API | Java, Swing, REST API | [GitHub 💻](https://github.com/yusufsheikh2716/WeatherApp) |
+| **WeatherApp** | Live Weather Web App with OpenWeatherMap API | HTML/CSS/JS, REST API | [Live 🌐](https://weather-app-dev-yusufsheikh2716.netlify.app) \| [GitHub 💻](https://github.com/yusufsheikh2716/JavaWeatherApp) |
 | **BlinkMart** | Grocery Delivery Landing Page | HTML, CSS, JS | [Live 🌐](https://legendary-kitten-5052a4.netlify.app) |
 
 </div>
