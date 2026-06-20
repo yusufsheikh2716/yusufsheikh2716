@@ -93,7 +93,10 @@ print("Let's build something amazing together! 🔥")
 | 🏅 Certificate | 🏢 Issuer | 📅 Year | 🔗 Verify |
 |---|---|---|---|
 | **Artificial Intelligence Mastery** | Beep Learning | 2026 | [Verify ✅](https://certificates.eventbeep.com/verify?id=AI-2023-2026-19a73420-044638) |
-| **Introduction to Generative AI** | Google Cloud | 2026 | Coming Soon 🔄 |
+| **Introduction to Generative AI** | Google Cloud | 2026 | [View Badge ✅](https://skills.google/profile/badges) |
+| **Introduction to Large Language Models** | Google Cloud | 2026 | [View Badge ✅](https://skills.google/profile/badges) |
+| **Introduction to Responsible AI** | Google Cloud | 2026 | [View Badge ✅](https://skills.google/profile/badges) |
+| **Responsible AI: Applying AI Principles with Google Cloud** | Google Cloud | 2026 | [View Badge ✅](https://skills.google/profile/badges) |
 
 </div>
 
