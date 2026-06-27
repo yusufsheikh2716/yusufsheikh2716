@@ -1,22 +1,71 @@
-<div align="center">
+# 👨‍💻 About Me
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=240&section=header&text=Mohd%20Yusuf&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Generative%20AI%20Enthusiast%20%7C%20Open%20to%20Internships&descAlignY=58&descSize=18"/>
+```python
+Mohd_Yusuf = {
 
-<br>
+    "👤 Name" : "Mohd Yusuf",
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hi,+I'm+Mohd+Yusuf;B.Tech+Information+Technology+Student;Aspiring+Data+Scientist;AI+and+Generative+AI+Enthusiast;Tata+iQ+and+Deloitte+Virtual+Experience;Always+Learning+Something+New)](https://git.io/typing-svg)
+    "📍 Location" : "Lucknow, Uttar Pradesh, India 🇮🇳",
 
-<br>
+    "🏫 College" : "BBD NIIT, Lucknow",
 
-<img src="https://komarev.com/ghpvc/?username=yusufsheikh2716&label=Profile+Views&color=6366f1&style=for-the-badge"/>
+    "🎓 University" : "Dr. A.P.J. Abdul Kalam Technical University (AKTU)",
 
-<img src="https://img.shields.io/github/followers/yusufsheikh2716?style=for-the-badge&color=6366F1"/>
+    "💻 Degree" : "Bachelor of Technology",
 
-<img src="https://img.shields.io/github/stars/yusufsheikh2716?affiliations=OWNER&style=for-the-badge&color=F59E0B"/>
+    "🌐 Branch" : "Information Technology",
 
-</div>
+    "🎯 Expected Graduation" : "2028",
 
----
+    "❤️ Interests" : [
+
+        "Data Science 📊",
+
+        "Artificial Intelligence 🤖",
+
+        "Generative AI ✨",
+
+        "Machine Learning 🧠",
+
+        "Business Intelligence 📈",
+
+        "Web Development 🌐"
+
+    ],
+
+    "📚 Currently Learning" : [
+
+        "Python 🐍",
+
+        "Machine Learning 🤖",
+
+        "Data Analytics 📊",
+
+        "Prompt Engineering 💡",
+
+        "Data Structures & Algorithms ⚡"
+
+    ],
+
+    "🏆 Certifications" : [
+
+        "Tata iQ",
+
+        "Deloitte Australia",
+
+        "IBM SkillsBuild",
+
+        "Google Cloud",
+
+        "Microsoft × PW Skills"
+
+    ],
+
+    "🚀 Open To" : "Data Science | AI | Software Development Internship"
+}
+
+print("Let's build something amazing together! 🚀")
+```
 
 # 👨‍💻 About Me
 
