@@ -1,16 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=Mohd%20Yusuf&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%7C%20Generative%20AI%20%7C%20Open%20to%20Internships&descAlignY=60&descSize=18"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=6366F1&center=true&vCenter=true&width=850&lines=Hi,+I'm+Mohd+Yusuf;B.Tech+Information+Technology+Student;Aspiring+Data+Scientist;AI+and+Generative+AI+Enthusiast;Python+Developer;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=yusufsheikh2716&style=for-the-badge&color=6366F1"/>
-<img src="https://img.shields.io/github/followers/yusufsheikh2716?style=for-the-badge&color=6366F1"/>
-<img src="https://img.shields.io/github/stars/yusufsheikh2716?affiliations=OWNER&style=for-the-badge&color=6366F1"/>
-</p>
-
-</div>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohd%20Yusuf&fontSize=85&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20GenAI%20Enthusiast%20%7C%20Open%20to%20Internships&descAlignY=55&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Mohd+Yusuf!;🎓+B.Tech+IT+%40+BBD+NIIT+Lucknow+(AKTU);🤖+AI+%26+Generative+AI+Enthusiast;📊+Aspiring+Data+Scientist;💼+Worked+on+Real+Data+for+TATA+%26+Deloitte;🚀+Open+to+Internship+Opportunities!)](https://git.io/typing-svg)
 
