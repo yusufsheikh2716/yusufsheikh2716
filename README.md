@@ -1,71 +1,183 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:EC4899&height=240&section=header&text=Mohd%20Yusuf&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20Engineer%20%7C%20Generative%20AI%20Enthusiast%20%7C%20Open%20to%20Internships&descAlignY=58&descSize=18"/>
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=750&lines=Hi,+I'm+Mohd+Yusuf;B.Tech+Information+Technology+Student;Aspiring+Data+Scientist;AI+and+Generative+AI+Enthusiast;Tata+iQ+and+Deloitte+Virtual+Experience;Always+Learning+Something+New)](https://git.io/typing-svg)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=yusufsheikh2716&label=Profile+Views&color=6366f1&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/yusufsheikh2716?style=for-the-badge&color=6366F1"/>
+
+<img src="https://img.shields.io/github/stars/yusufsheikh2716?affiliations=OWNER&style=for-the-badge&color=F59E0B"/>
+
+</div>
+
+---
+
 # 👨‍💻 About Me
 
 ```python
-Mohd_Yusuf = {
+class MohdYusuf:
 
-    "👤 Name" : "Mohd Yusuf",
+    def __init__(self):
 
-    "📍 Location" : "Lucknow, Uttar Pradesh, India 🇮🇳",
+        self.name = "Mohd Yusuf"
 
-    "🏫 College" : "BBD NIIT, Lucknow",
+        self.location = "Lucknow, Uttar Pradesh, India"
 
-    "🎓 University" : "Dr. A.P.J. Abdul Kalam Technical University (AKTU)",
+        self.college = "BBD NIIT, Lucknow"
 
-    "💻 Degree" : "Bachelor of Technology",
+        self.university = "Dr. A.P.J. Abdul Kalam Technical University"
 
-    "🌐 Branch" : "Information Technology",
+        self.degree = "Bachelor of Technology"
 
-    "🎯 Expected Graduation" : "2028",
+        self.branch = "Information Technology"
 
-    "❤️ Interests" : [
+        self.graduation = 2028
 
-        "Data Science 📊",
+    def interests(self):
 
-        "Artificial Intelligence 🤖",
+        return [
 
-        "Generative AI ✨",
+            "Data Science",
 
-        "Machine Learning 🧠",
+            "Artificial Intelligence",
 
-        "Business Intelligence 📈",
+            "Generative AI",
 
-        "Web Development 🌐"
+            "Machine Learning",
 
-    ],
+            "Business Intelligence",
 
-    "📚 Currently Learning" : [
+            "Web Development"
 
-        "Python 🐍",
+        ]
 
-        "Machine Learning 🤖",
+    def currently_learning(self):
 
-        "Data Analytics 📊",
+        return [
 
-        "Prompt Engineering 💡",
+            "Python",
 
-        "Data Structures & Algorithms ⚡"
+            "Machine Learning",
 
-    ],
+            "Data Analytics",
 
-    "🏆 Certifications" : [
+            "Prompt Engineering",
 
-        "Tata iQ",
+            "Data Structures & Algorithms"
 
-        "Deloitte Australia",
+        ]
 
-        "IBM SkillsBuild",
+    def certifications(self):
 
-        "Google Cloud",
+        return [
 
-        "Microsoft × PW Skills"
+            "Tata iQ",
 
-    ],
+            "Deloitte",
 
-    "🚀 Open To" : "Data Science | AI | Software Development Internship"
-}
+            "IBM SkillsBuild",
 
-print("Let's build something amazing together! 🚀")
+            "Google Cloud",
+
+            "Microsoft x PW Skills"
+
+        ]
+
+    def looking_for(self):
+
+        return "Data Science | AI | Software Development Internship"
+
+me = MohdYusuf()
 ```
+
+---
+
+# 🚀 Quick Highlights
+
+- 🎓 B.Tech Information Technology Student (3rd Year)
+- 📊 Passionate about Data Science & Analytics
+- 🤖 Exploring Artificial Intelligence & Large Language Models
+- 💼 Completed Industry Virtual Experience Programs with Tata iQ and Deloitte Australia
+- 🌍 Learning Machine Learning & Data Engineering
+- 🚀 Open to Internship Opportunities
+- 💡 Love building real-world projects
+
+---
+
+# 💼 Virtual Experience
+
+<div align="center">
+
+| Company | Role | Highlights |
+|---------|------|------------|
+| 🟦 Tata iQ × Forage | Data Visualisation Consultant | Analysed 500,000+ retail records • Built executive dashboards • Identified business insights |
+| 🟩 Deloitte Australia × Forage | Data Analytics Analyst | Data Analytics • Forensic Technology • Business Reporting • Stakeholder Insights |
+
+</div>
+
+---
+
+# 🏆 Featured Achievements
+
+🏅 Analysed more than **500,000 retail transactions**
+
+📈 Delivered executive-level business insights
+
+🌍 Analysed sales across **37+ countries**
+
+📊 Built dashboards for CEO & CMO level reporting
+
+🤖 Completed multiple AI & Generative AI certifications
+
+🚀 Built and deployed multiple full-stack projects
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
+
+### Data Science
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+### Artificial Intelligence
+
+<img src="https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-EC4899?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IBM_Watsonx-1261FE?style=for-the-badge"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode"/>
+
+</div>
+
+---
 
 # 👨‍💻 About Me
 
