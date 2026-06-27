@@ -1,8 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohd%20Yusuf&fontSize=85&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20GenAI%20Enthusiast%20%7C%20Open%20to%20Internships&descAlignY=55&descSize=18)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:a855f7&height=220&section=header&text=Mohd%20Yusuf&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20GenAI%20Enthusiast%20%7C%20Open%20to%20Internships&descAlignY=55&descSize=17" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Mohd+Yusuf!;🎓+B.Tech+IT+%40+BBD+NIIT+Lucknow+(AKTU);🤖+AI+%26+Generative+AI+Enthusiast;📊+Aspiring+Data+Scientist;💼+Worked+on+Real+Data+for+TATA+%26+Deloitte;🚀+Open+to+Internship+Opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Mohd+Yusuf!;🎓+B.Tech+IT+%40+BBD+NIIT+Lucknow+(AKTU);📊+Aspiring+Data+Scientist;🤖+AI+%26+Generative+AI+Enthusiast;💼+Worked+on+Real+Data+for+TATA+%26+Deloitte;🚀+Open+to+Internship+Opportunities!)](https://git.io/typing-svg)
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=yusufsheikh2716&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
 &nbsp;
@@ -35,11 +37,10 @@ class MohdYusuf:
 
     def currently(self):
         return {
-            "learning"   : ["Python", "Data Science", "Machine Learning", "DSA"],
-            "building"   : ["Data Projects", "AI-powered Apps"],
-            "deployed"   : ["BlinkMart 🛒", "YusufChat 💬", "WeatherApp 🌤️"],
-            "certified"  : ["Tata iQ", "Deloitte", "IBM SkillsBuild x7", "Google Cloud", "PW Skills x Microsoft"],
-            "open_to"    : "Internship Opportunities 🚀"
+            "learning"  : ["Python", "Data Science", "Machine Learning", "DSA"],
+            "deployed"  : ["BlinkMart 🛒", "YusufChat 💬", "WeatherApp 🌤️"],
+            "certified" : ["Tata iQ ✅", "Deloitte ✅", "IBM x7 ✅", "Google Cloud ✅"],
+            "open_to"   : "Internship Opportunities 🚀"
         }
 
     def fun_fact(self):
@@ -55,51 +56,52 @@ print("Let's build something amazing together! 🔥")
 
 <div align="center">
 
-### 🏢 Industry Simulations — Real Work, Real Companies
+### 🏢 Real Industry Experience — Real Companies
 
-</div>
-
-<table align="center">
+<table>
 <tr>
 <td align="center" width="50%">
 
-### 🔵 Tata iQ × Forage
+<img src="https://img.shields.io/badge/TATA%20iQ-003087?style=for-the-badge&logo=tata&logoColor=white" />
+
 **Data Visualisation Consultant**
-*June 2026*
+*June 2026 · Forage*
 
 ```
 ✅ Analyzed 500,000+ transaction records
-✅ Identified £1.4M peak revenue month
+✅ Peak revenue: £1.4M (November — 40%+ spike)
 ✅ Mapped demand across 37+ countries
 ✅ Delivered 4 executive-level visuals
-✅ Top 3 expansion markets identified:
-   Netherlands | Germany | EIRE
+✅ Top expansion: Netherlands | Germany | EIRE
+✅ Reported to CEO & CMO level leadership
 ```
-🎯 *CEO & CMO level insights delivered*
 
-[![Certificate](https://img.shields.io/badge/Certificate-Verified-00C851?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_fQjgbnzYvivQvW8NA_1782479013458_completion_certificate.pdf)
+[![Verify](https://img.shields.io/badge/Certificate-Verified-00C851?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_fQjgbnzYvivQvW8NA_1782479013458_completion_certificate.pdf)
 
 </td>
 <td align="center" width="50%">
 
-### 🟢 Deloitte Australia × Forage
+<img src="https://img.shields.io/badge/Deloitte-86BC25?style=for-the-badge&logo=deloitte&logoColor=white" />
+
 **Data Analytics Analyst**
-*June 2026*
+*June 2026 · Forage*
 
 ```
-✅ Completed 2 Big 4 consulting challenges
+✅ 2 real Big 4 consulting challenges
 ✅ Data Analysis & Forensic Technology
 ✅ Evidence-based analytical frameworks
 ✅ Professional stakeholder reporting
 ✅ Deloitte-standard business insights
+✅ Big 4 consulting experience simulated
 ```
-🎯 *Big 4 consulting experience simulated*
 
-[![Certificate](https://img.shields.io/badge/Certificate-Verified-00C851?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_fQjgbnzYvivQvW8NA_1782497793875_completion_certificate.pdf)
+[![Verify](https://img.shields.io/badge/Certificate-Verified-00C851?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_fQjgbnzYvivQvW8NA_1782497793875_completion_certificate.pdf)
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -144,11 +146,11 @@ print("Let's build something amazing together! 🔥")
 
 <div align="center">
 
-| 🛍️ Project | 📝 Description | 🛠️ Tech | 📊 Stats | 🔗 Link |
+| 🛍️ Project | 📝 Description | 🛠️ Tech | 📊 Highlights | 🔗 |
 |---|---|---|---|---|
-| **⚡ BlinkMart** | 10-min grocery delivery app — 25+ products, 9 categories, PWA-installable, cart, login & discount badges | HTML · CSS · JS | 100% uptime · 9 categories · 25+ products | [Live 🌐](https://legendary-kitten-5052a4.netlify.app) |
-| **💬 YusufChat** | Real-time multi-user chat with Firebase & WebSocket — sub-second message delivery | Java · Firebase · WebSocket | Multi-user · Sub-second delivery | [Live 🌐](https://yusufchat-web.onrender.com) |
-| **🌤️ WeatherApp** | Live weather for any city worldwide — 6 real-time metrics, animated starfield UI | HTML · CSS · JS · OpenWeatherMap API | Any city · 6 live metrics | [Live 🌐](https://weather-app-dev-yusufsheikh2716.netlify.app) |
+| **⚡ BlinkMart** | 10-min grocery delivery web app — PWA installable | HTML · CSS · JS | 25+ products · 9 categories · 100% uptime | [Live 🌐](https://legendary-kitten-5052a4.netlify.app) |
+| **💬 YusufChat** | Real-time multi-user chat with Firebase | Java · Firebase · WebSocket | Multi-user · Sub-second delivery | [Live 🌐](https://yusufchat-web.onrender.com) |
+| **🌤️ WeatherApp** | Live weather for any city worldwide | HTML · CSS · JS · OpenWeatherMap API | Any city · 6 live metrics | [Live 🌐](https://weather-app-dev-yusufsheikh2716.netlify.app) |
 
 </div>
 
@@ -160,24 +162,24 @@ print("Let's build something amazing together! 🔥")
 
 [![Resume](https://img.shields.io/badge/📄%20View%20My%20Resume-6366F1?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/mohd-yusuf-sheikh/)
 
-*ATS-Optimized · Single Page · Data Science Focused*
+*ATS-Optimized · Single Page · Data Science Focused · June 2026*
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 Certifications
 
 <div align="center">
 
 ### 🏢 Industry Virtual Experience
-| 🏅 Certificate | 🏢 Issuer | 📅 Date | 🆔 Credential | 🔗 Verify |
+| 🏅 Certificate | 🏢 Issuer | 📅 | 🆔 Credential | 🔗 |
 |---|---|---|---|---|
 | **Data Visualisation: Empowering Business with Effective Insights** | Tata iQ × Forage | Jun 2026 | REEHp7mXbxZZQ5E9b | [Verify ✅](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_fQjgbnzYvivQvW8NA_1782479013458_completion_certificate.pdf) |
 | **Data Analytics Job Simulation** | Deloitte Australia × Forage | Jun 2026 | 6roWjixEyNjtrKpWi | [Verify ✅](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_fQjgbnzYvivQvW8NA_1782497793875_completion_certificate.pdf) |
 
 ### 🤖 Generative AI & Data Science
-| 🏅 Certificate | 🏢 Issuer | 📅 Date | 🆔 Credential |
+| 🏅 Certificate | 🏢 Issuer | 📅 | 🆔 Credential |
 |---|---|---|---|
 | **Generative AI for All** (PW Skills × Microsoft) | PW Skills | Jun 2026 | c84e64b1-5dee-4e26-b75f-1bb2b3673c9b |
 | **Data Projects** | PW Skills | Jun 2026 | 139ec5c2-5d44-4b84-8be8-f1d4961e4e36 |
@@ -190,17 +192,17 @@ print("Let's build something amazing together! 🔥")
 | **RAG for Enhanced AI Outputs** | IBM SkillsBuild | Jun 2026 | — |
 
 ### ☁️ Google Cloud
-| 🏅 Certificate | 🏢 Issuer | 📅 Date |
-|---|---|---|
-| **Introduction to Generative AI** | Google Cloud | 2026 |
-| **Introduction to Large Language Models** | Google Cloud | 2026 |
-| **Introduction to Responsible AI** | Google Cloud | 2026 |
-| **Responsible AI: Applying AI Principles with Google Cloud** | Google Cloud | 2026 |
+| 🏅 Certificate | 📅 |
+|---|---|
+| Introduction to Generative AI | 2026 |
+| Introduction to Large Language Models | 2026 |
+| Introduction to Responsible AI | 2026 |
+| Responsible AI: Applying AI Principles with Google Cloud | 2026 |
 
 ### 🎓 Memberships
-| 🏅 Certificate | 🏢 Issuer | 📅 Date | 🆔 ID |
-|---|---|---|---|
-| **Student Chapter Member** | SCRS | 2026 | SCRS2602 |
+| 🏅 | 🏢 | 🆔 |
+|---|---|---|
+| SCRS Student Chapter Member | SCRS | SCRS2602 |
 
 </div>
 
@@ -211,12 +213,12 @@ print("Let's build something amazing together! 🔥")
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=yusufsheikh2716&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=ffffff&count_private=true" width="48%" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufsheikh2716&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsheikh2716&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff" width="48%" />
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufsheikh2716&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B" width="98%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufsheikh2716&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=ffffff" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufsheikh2716&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B" width="48%" />
 
 </div>
 
@@ -226,7 +228,7 @@ print("Let's build something amazing together! 🔥")
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yusufsheikh2716&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusufsheikh2716&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -240,7 +242,7 @@ print("Let's build something amazing together! 🔥")
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohdyusufsheikh2716@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yusufsheikh2716)
 [![BlinkMart](https://img.shields.io/badge/BlinkMart-FF6B35?style=for-the-badge&logo=netlify&logoColor=white)](https://legendary-kitten-5052a4.netlify.app)
-[![YusufChat](https://img.shields.io/badge/YusufChat-6366F1?style=for-the-badge&logo=chatbot&logoColor=white)](https://yusufchat-web.onrender.com)
+[![YusufChat](https://img.shields.io/badge/YusufChat-6366F1?style=for-the-badge&logo=googlechat&logoColor=white)](https://yusufchat-web.onrender.com)
 
 </div>
 
@@ -249,13 +251,12 @@ print("Let's build something amazing together! 🔥")
 <div align="center">
 
 ### 💭 Quote I Live By
-
 > *"Data is the new oil — but only if you know how to refine it."* 🔥
 
 <br/>
 
-**⭐ If you like my work, consider starring my repos! It motivates me to build more! ⭐**
+⭐ **If you like my work, consider starring my repos — it motivates me to build more!** ⭐
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:a855f7&height=120&section=footer" width="100%" />
 
 </div>
