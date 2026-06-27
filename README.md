@@ -17,86 +17,62 @@
 </div>
 
 ---
-
 # 👨‍💻 About Me
 
-```python
-class MohdYusuf:
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-    def __init__(self):
+### 👋 Hi, I'm Mohd Yusuf
 
-        self.name = "Mohd Yusuf"
-
-        self.location = "Lucknow, Uttar Pradesh, India"
-
-        self.college = "BBD NIIT, Lucknow"
-
-        self.university = "Dr. A.P.J. Abdul Kalam Technical University"
-
-        self.degree = "Bachelor of Technology"
-
-        self.branch = "Information Technology"
-
-        self.graduation = 2028
-
-    def interests(self):
-
-        return [
-
-            "Data Science",
-
-            "Artificial Intelligence",
-
-            "Generative AI",
-
-            "Machine Learning",
-
-            "Business Intelligence",
-
-            "Web Development"
-
-        ]
-
-    def currently_learning(self):
-
-        return [
-
-            "Python",
-
-            "Machine Learning",
-
-            "Data Analytics",
-
-            "Prompt Engineering",
-
-            "Data Structures & Algorithms"
-
-        ]
-
-    def certifications(self):
-
-        return [
-
-            "Tata iQ",
-
-            "Deloitte",
-
-            "IBM SkillsBuild",
-
-            "Google Cloud",
-
-            "Microsoft x PW Skills"
-
-        ]
-
-    def looking_for(self):
-
-        return "Data Science | AI | Software Development Internship"
-
-me = MohdYusuf()
-```
+🎓 **B.Tech Information Technology Student**  
+🏫 **BBD NIIT, Lucknow (AKTU)**  
+🎯 **Expected Graduation:** 2028
 
 ---
+
+### 🚀 What I'm Passionate About
+
+✨ Data Science  
+🤖 Artificial Intelligence  
+🧠 Generative AI & LLMs  
+📈 Business Intelligence  
+📊 Data Analytics  
+🌐 Web Development
+
+---
+
+### 🌱 Currently Learning
+
+🐍 Python
+
+🤖 Machine Learning
+
+📊 Data Analytics
+
+💡 Prompt Engineering
+
+⚡ Data Structures & Algorithms
+
+---
+
+### 🏆 Certifications
+
+✔ Tata iQ
+
+✔ Deloitte Australia
+
+✔ IBM SkillsBuild
+
+✔ Google Cloud
+
+✔ Microsoft × PW Skills
+
+---
+
+### 💼 Looking For
+
+🚀 **Data Science • AI • Software Development Internships**
+
+📍 **Lucknow, Uttar Pradesh, India 🇮🇳**
 
 # 🚀 Quick Highlights
 
