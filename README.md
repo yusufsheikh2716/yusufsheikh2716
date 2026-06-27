@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:a855f7&height=220&section=header&text=Mohd%20Yusuf&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20GenAI%20Enthusiast%20%7C%20Open%20to%20Internships&descAlignY=55&descSize=17" width="100%" />
@@ -258,6 +257,6 @@ print("Let's build something amazing together! 🔥")
 
 ⭐ **If you like my work, consider starring my repos — it motivates me to build more!** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:a855f7&height=120&section=footer" width="100%" />
+![](https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg)
 
 </div>
