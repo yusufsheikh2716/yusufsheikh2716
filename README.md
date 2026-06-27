@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:a855f7&height=220&section=header&text=Mohd%20Yusuf&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20GenAI%20Enthusiast%20%7C%20Open%20to%20Internships&descAlignY=55&descSize=17" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Mohd+Yusuf!;🎓+B.Tech+IT+%40+BBD+NIIT+Lucknow+(AKTU);📊+Aspiring+Data+Scientist;🤖+AI+%26+Generative+AI+Enthusiast;💼+Worked+on+Real+Data+for+TATA+%26+Deloitte;🚀+Open+to+Internship+Opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Mohd+Yusuf!;🎓+B.Tech+IT+%40+BBD+NIIT+Lucknow+(AKTU);📊+Aspiring+Data+Scientist;🤖+AI+%2526+Generative+AI+Enthusiast;💼+Worked+on+Real+Data+for+TATA+%26+Deloitte;🚀+Open+to+Internship+Opportunities!)](https://git.io/typing-svg)
 
 <br/>
 
